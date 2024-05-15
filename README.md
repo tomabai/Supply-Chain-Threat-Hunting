@@ -14,7 +14,7 @@ This guide is an invaluable resource for cybersecurity professionals, IT staff, 
 
 ## How to Use This Repository
 
-- **Download the Report**: Click on [The Essential Guide to Threat Hunting in the Software Supply Chain.pdf]([./The_Essential_Guide_to_Threat_Hunting_in_the_Software_Supply_Chain.pdf](https://github.com/tomabai/Supply-Chain-Threat-Hunting/blob/main/Essential-Guide-to-Threat-Hunting-2024-Report.pdf)) to download the PDF.
+- **Download the Report**: Click on [The Essential Guide to Threat Hunting in the Software Supply Chain.pdf](https://github.com/tomabai/Supply-Chain-Threat-Hunting/blob/main/Essential-Guide-to-Threat-Hunting-2024-Report.pdf)) to download the PDF.
 - **Issues and Discussion**: If you have any suggestions or want to discuss the contents of the guide, please use the [Issues](https://github.com/tomabai/Supply-Chain-Threat-Hunting/issues) tab.
 
 
